@@ -1,4 +1,4 @@
-proficient with web automation, discord bots, and indicators/strategies with pinescript (tradingview)
+focusing on web automation, discord systems, and indicators/strategies with pinescript (tradingview)
 
 ------
 
