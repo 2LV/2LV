@@ -1,4 +1,4 @@
-focusing on web automation, discord systems, and indicators/strategies with pinescript (tradingview)
+web automation, apis, and trading indicators/strategies with pinescript
 
 ------
 
