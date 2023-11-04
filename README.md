@@ -6,7 +6,7 @@ discord @ 123781023
 
 tele @ onasn
 
-spotify @ [11](https://open.spotify.com/user/r4w4u8ustl8sdu5z4oqhqhd7q?si=cd7a74d3d1e94a2b)
+spotify @ [11](https://open.spotify.com/user/r4w4u8ustl8sdu5z4oqhqhd7q)
 
 ------
 
