@@ -10,7 +10,4 @@ spotify @ [11](https://open.spotify.com/user/r4w4u8ustl8sdu5z4oqhqhd7q)
 
 ------
 
-<div>
-  <a href="https://wakatime.com/@ko">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ko&layout=compact&theme=dark" alt="ko">
-  </a>
+[![wakatime](https://wakatime.com/badge/user/9589ae4b-a477-4b97-8d5a-9664bffc322d.svg)](https://wakatime.com/@9589ae4b-a477-4b97-8d5a-9664bffc322d)
