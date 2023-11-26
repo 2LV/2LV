@@ -1,4 +1,4 @@
-web automation, apis, and trading indicators/strategies with pinescript
+web automation, backend, and app dev
 
 ------
 
