@@ -8,7 +8,7 @@ options and futures day trader
 
 discord @ 123781023
 
-tele @ onasn
+tele @ [onasn](https://t.me/onasn)
 
 spotify @ [8](https://open.spotify.com/user/r4w4u8ustl8sdu5z4oqhqhd7q)
 
