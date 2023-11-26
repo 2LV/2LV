@@ -1,4 +1,4 @@
-web automation, backend, and app dev
+web automation, backend, app dev
 
 options and futures day trader
 
