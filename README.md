@@ -2,8 +2,6 @@ web automation, backend, app dev
 
 options and futures day trader
 
-15
-
 ------
 
 discord @ 123781023
