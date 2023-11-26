@@ -1,6 +1,8 @@
 web automation, backend, and app dev
 
-options and futures trader
+options and futures day trader
+
+15
 
 ------
 
