@@ -1,4 +1,4 @@
-js & py & nq
+py nq en js cn jp
 
 ------
 
