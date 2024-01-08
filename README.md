@@ -1,4 +1,4 @@
-web automation, backend, app dev
+js & py
 
 ------
 
