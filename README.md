@@ -1,4 +1,4 @@
-py nq en js cn jp
+py, js, nq
 
 ------
 
