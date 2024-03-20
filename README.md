@@ -2,7 +2,7 @@ py, js, go, nq
 
 ------
 
-discord @ 123781023
+discord @ onasn
 
 tele @ [onasn](https://t.me/onasn)
 
