@@ -1,4 +1,4 @@
-py, js, go, pinescript, nq
+py js go nq
 
 ------
 
