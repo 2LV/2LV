@@ -4,7 +4,7 @@ py js go nq
 
 discord @ onasn
 
-tele @ [onasn](https://t.me/onasn)
+tele @ onasn
 
 ------
 
