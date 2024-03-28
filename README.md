@@ -1,4 +1,4 @@
-py js go nq
+py js go
 
 ------
 
