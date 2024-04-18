@@ -6,8 +6,6 @@ discord @ onasn
 
 tele @ onasn
 
-spotify @ [*](https://open.spotify.com/user/r4w4u8ustl8sdu5z4oqhqhd7q)
-
 ------
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=r4w4u8ustl8sdu5z4oqhqhd7q&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/r4w4u8ustl8sdu5z4oqhqhd7q)
