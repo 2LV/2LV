@@ -4,7 +4,7 @@ py js go
 
 discord @ onasn
 
-tele @ onasn
+tele @ [nqmicro](https://web.telegram.org/k/#@nqmicro)
 
 ------
 
