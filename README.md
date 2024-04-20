@@ -4,7 +4,7 @@ py js go
 
 discord @ nqmini
 
-tele @ [nqmicro](https://web.telegram.org/k/#@nqmicro)
+telegram @ [nqmicro](https://web.telegram.org/k/#@nqmicro)
 
 ------
 
