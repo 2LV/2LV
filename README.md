@@ -2,7 +2,7 @@ py js go
 
 ------
 
-discord @ nqmini
+discord @ nqmicro
 
 telegram @ [nqmicro](https://t.me/nqmicro)
 
